@@ -10,6 +10,7 @@ end
 -- When starting a game, make sure it's snowing
 function LongDark.triggerOnGameStart()
   LongDark.forceSnow()
+  getClimateManager():triggerWinterIsComingStorm()
   forceSnowCheck()
 end
 
