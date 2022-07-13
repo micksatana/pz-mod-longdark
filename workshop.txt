@@ -1,0 +1,13 @@
+version=1
+title=Long Dark
+description=Experiencing rough winter in Project Zomboid
+description=
+description=## Features
+description=
+description=- Endless snowing
+description=- 50% chance of having a Winter storm daily
+description=- Random min and max temperatures for seasons
+description=  - 0 to -4 °C mininum
+description=  - -20 to -25 °C maximum
+tags=
+visibility=public

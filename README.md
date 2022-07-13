@@ -9,3 +9,9 @@ Experiencing rough winter in Project Zomboid
 - Random min and max temperatures for seasons
   - 0 to -4 °C mininum
   - -20 to -25 °C maximum
+
+## Release on Steam Workshop
+
+- `preview.png`
+- `workshop.txt`
+- `Contents` folder
