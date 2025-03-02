@@ -1,6 +1,6 @@
 version=1
 id=2834751914
-title=Long Dark
+title=[B41/B42] Long Dark
 description=Experiencing rough winter in Project Zomboid
 description=
 description=## Features
@@ -10,5 +10,5 @@ description=- 50% chance of having a Winter storm daily
 description=- Random min and max temperatures for seasons
 description=  - 0 to -4 °C mininum
 description=  - -20 to -25 °C maximum
-tags=Build 41;Hardmode;Misc;Realistic
+tags=Build 41;Build 42;Hardmode;Misc;Realistic
 visibility=public

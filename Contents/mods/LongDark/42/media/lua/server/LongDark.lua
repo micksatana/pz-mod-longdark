@@ -38,7 +38,7 @@ function LongDark.randomMinMaxTemperatures(season)
   )
 end
 
-Events.OnGameStart.Add(LongDark.triggerOnGameBoot)
+Events.OnGameBoot.Add(LongDark.triggerOnGameBoot)
 Events.EveryHours.Add(LongDark.forceSnow)
 Events.EveryDays.Add(LongDark.mayHaveSnowStorm)
 Events.OnInitSeasons.Add(LongDark.randomMinMaxTemperatures)
