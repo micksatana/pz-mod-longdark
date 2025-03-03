@@ -8,7 +8,7 @@ function LongDark.forceSnow()
 end
 
 -- When starting a game, make sure it's snowing
-function LongDark.triggerOnGameBoot()
+function LongDark.triggerOnGameStart()
   LongDark.forceSnow()
   getClimateManager():triggerWinterIsComingStorm()
   forceSnowCheck()
@@ -38,7 +38,7 @@ function LongDark.randomMinMaxTemperatures(season)
   )
 end
 
-Events.OnGameStart.Add(LongDark.triggerOnGameBoot)
+Events.OnGameStart.Add(LongDark.triggerOnGameStart)
 Events.EveryHours.Add(LongDark.forceSnow)
 Events.EveryDays.Add(LongDark.mayHaveSnowStorm)
 Events.OnInitSeasons.Add(LongDark.randomMinMaxTemperatures)

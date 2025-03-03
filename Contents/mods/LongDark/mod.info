@@ -1,5 +1,7 @@
+modversion=1.0
 name=Long Dark
-poster=poster.png
+poster=media/poster.png
+icon=media/poster.png
 id=LongDark
 description=Experiencing endless Winter in Project Zomboid
 url=https://github.com/micksatana/pz-mod-longdark
