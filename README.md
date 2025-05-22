@@ -1,4 +1,8 @@
-# Project Zomboid - Long Dark mod
+# Project Zomboid - Long Dark mod [OBSOLETED]
+
+As of Build 42.8.0, the sandbox menu has endless climate options, temperature is also configurable. This mod is no longer required to create a Long Dark experience.
+
+## Description
 
 Experiencing rough winter in Project Zomboid
 
